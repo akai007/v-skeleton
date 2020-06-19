@@ -1,0 +1,13 @@
+{
+  "name": "v-skeleton",
+  "version": "1.0.0",
+  "description": "Low-Intrusion, Dynamic and Better skeleton by vue directives",
+  "main": "/src/main.js",
+  "repository": "https://github.com/akai007/v-skeleton.git",
+  "author": "akai007",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}

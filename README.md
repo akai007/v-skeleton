@@ -1,2 +1,3 @@
 # v-skeleton
-A vue skeleton implementation by directives
+Low-Intrusion, Dynamic and Better skeleton by vue directives
+
